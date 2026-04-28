@@ -6,7 +6,7 @@ Software engineer building healthcare technology by day. DJ and electronic music
 
 ## About
 
-- 🏥 AI & Software Engineer at **[Health Triage](https://healthtriage.it/)** — AI-powered medical imaging & Software as a Medical Device
+- 🏥 AI & Software Engineer at **[Health Triage](https://healthtriage.ai/)** — AI-powered medical imaging & Software as a Medical Device
 - 🎓 MSc in eHealth Engineering — Polytechnic of Turin
 - 🤖 Turning deep learning research into certified medical software for real clinical workflows
 - 🎛️ DJ and electronic music producer on the side — [SoundCloud](https://soundcloud.com/doms17)
